@@ -8,6 +8,7 @@ public class Ex3 {
                 "- July", "- August", "- September", "- October", "- November", "- December"
         );
 
-        months.forEach(m -> System.out.println(m));
+        months.forEach(month -> System.out.println(month));
     }
+
 }
